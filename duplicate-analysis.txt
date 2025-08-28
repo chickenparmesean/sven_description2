@@ -1,0 +1,479 @@
+AUDITOR DUPLICATE ANALYSIS REPORT
+==================================================
+
+Total unique auditor entries: 942
+Unique normalized names: 375
+
+EXACT DUPLICATES (Same auditor across multiple protocols):
+------------------------------------------------------------
+• bin2chen (20 times)
+  Protocols: ENS, GMX, GMX_solana, Hyperlandsrs, Hyperlane, IOTA, Incentiv, Incentiv, Incentiv, Incentiv, Irys, Irys_1, Notional, Plume, bitlayer-srs, incentiv, lombard, lombard, nuffle, rarible
+
+• pkqs90 (17 times)
+  Protocols: AaveV4, AaveV4, AaveV4_v2, ArgonautSRs, Centrifuge, Centrifuge, Compound, Incentiv, Incentiv, Incentiv, Incentiv, Likwid, Malda, Malda, Satlayer, amara, majority
+
+• Gas Optimization & Low-Level Systems (17 times)
+  Protocols: Curvance (WIP), Curvance (WIP), Curvance (WIP), Curvance (WIP), Curvance (WIP), Curvance (WIP), Curvance (WIP), Curvance (WIP), Curvance (WIP), Curvance (WIP), Curvance (WIP), Timeswap (Curvance structure), Timeswap (Curvance structure), Timeswap (Curvance structure), Timeswap (Curvance structure), Timeswap (Curvance structure), Timeswap (Curvance structure)
+
+• 0x52 (16 times)
+  Protocols: AaveV4, AaveV4, AaveV4_v2, Centrifuge, Centrifuge, Ilayer, Malda, Pareto-SRs, Timeswap (Curvance structure), USBC, amara, bitlayer-srs, chronicle, chronicle_1, tenor_srs, vault-bridge-srs
+
+• Money Market Protocols & Liquidation Logic (15 times)
+  Protocols: Curvance (WIP), Curvance (WIP), Curvance (WIP), Curvance (WIP), Curvance (WIP), Curvance (WIP), Curvance (WIP), Curvance (WIP), Curvance (WIP), Timeswap (Curvance structure), Timeswap (Curvance structure), Timeswap (Curvance structure), Timeswap (Curvance structure), Timeswap (Curvance structure), Timeswap (Curvance structure)
+
+• Math Algorithms & Interest Rate Models (14 times)
+  Protocols: Curvance (WIP), Curvance (WIP), Curvance (WIP), Curvance (WIP), Curvance (WIP), Curvance (WIP), Curvance (WIP), Curvance (WIP), Timeswap (Curvance structure), Timeswap (Curvance structure), Timeswap (Curvance structure), Timeswap (Curvance structure), Timeswap (Curvance structure), Timeswap (Curvance structure)
+
+• SLIDE 2 (12 times)
+  Protocols: Scroll, Scroll, Scroll, Scroll, incentiv, monad-srsv2, monad-srsv2, monad-srsv2, monad-srsv2, monad-srsv2, monad-srsv2, monad-srsv2
+
+• deadrosesxyz (11 times)
+  Protocols: AaveV4, AaveV4, AaveV4_v2, Autopilot, Centrifuge, Hydrex, Incentiv, Incentiv, Plume, Prodigy fi, tenor_srs
+
+• SLIDE 1 (10 times)
+  Protocols: Scroll, Scroll, Scroll, monad-srsv2, monad-srsv2, monad-srsv2, monad-srsv2, monad-srsv2, monad-srsv2, monad-srsv2
+
+• hyh (9 times)
+  Protocols: AaveV4, Cap, Cap, Centrifuge, Curvance (WIP), cap-srs, cap-srs, liquityv2-srs, liquityv2-srs
+
+• oot2k (9 times)
+  Protocols: Compound, Hydrex, Licredity, Likwid, Morpho, Pareto-SRs, Prodigy fi, bao, majority
+
+• Price & Duration (8 times)
+  Protocols: Aave V4 Audit Proposal, Aave V4 Audit Proposal, MegaETH Audit Proposal, Morpho Markets V2 Audit Proposal, Morpho Markets V2 Audit Proposal, Morpho V2 Audit Proposal, Updated Aave V4 Audit Proposal, Updated Aave V4 Audit Proposal
+
+• **pkqs90** (7 times)
+  Protocols: 3Jane, Curvance (WIP), M^Zero, Majority, aave_v33, bitgo_batcher, riftlend
+
+• Gabriel Jaldon (7 times)
+  Protocols: Compound, Incentiv, Incentiv, Scroll, arch-srs, incentiv, thorchain-v2
+
+• [**Xiaoming90**](https://audits.sherlock.xyz/watson/xiaoming90) (6 times)
+  Protocols: 3Jane, Aave V4 Audit Proposal, Morpho, Morpho Markets V2 Audit Proposal, Resolv, Updated Aave V4 Audit Proposal
+
+• [**Deadrosesxyz**](https://audits.sherlock.xyz/watson/bughuntoor) (6 times)
+  Protocols: Aave V4 Audit Proposal, Curvance (WIP), Morpho, Morpho Markets V2 Audit Proposal, Resolv, Updated Aave V4 Audit Proposal
+
+• Services Included (6 times)
+  Protocols: Aave V4 Audit Proposal, MegaETH Audit Proposal, Morpho Markets V2 Audit Proposal, Morpho V2 Audit Proposal, Morpho V2 Audit Proposal, Updated Aave V4 Audit Proposal
+
+• 0xSimao (6 times)
+  Protocols: Arrakis, Arrakis, arch-srs, chronicle, chronicle_1, citrea-srs
+
+• **Sammy** (6 times)
+  Protocols: Axal, MegaETH, MegaETH Audit Proposal, SEI, Side, midl
+
+• **Gabriel Jaldon** (6 times)
+  Protocols: Brevis, Citrea, Propeller Heads - Turbine, SEI, Swiv, gjaldon
+
+• **KupiaSec** (6 times)
+  Protocols: Exactly, Fuel, Megapot, Summer fi, YieldBasis, ammalgam-srs
+
+• [**Tapir**](https://audits.sherlock.xyz/watson/mstpr-brainbot) (5 times)
+  Protocols: 3Jane, Aave V4 Audit Proposal, Curvance (WIP), Morpho Markets V2 Audit Proposal, Updated Aave V4 Audit Proposal
+
+• **Cergyk** (5 times)
+  Protocols: Axal, Hemi, MegaETH, MegaETH Audit Proposal, Wireshape
+
+• GalloDaSballo (aka. Alex) (5 times)
+  Protocols: Cap, Cap, cap-srs, cap-srs, liquityv2-srs
+
+• Key Audits & Skills: (5 times)
+  Protocols: arch-srs, arch-srs, arch-srs, arch-srs, arch-srs
+
+• Sergei K (Cergyk) (5 times)
+  Protocols: bitlayer-srs, brevis-srs, brevis-srs_1, citrea-srs, runes-srs
+
+• **hyh** (4 times)
+  Protocols: 3Jane, GooDaoFi, InkySwap Pump, Timeswap
+
+• [**0x52**](https://audits.sherlock.xyz/watson/0x52) (4 times)
+  Protocols: Aave V4 Audit Proposal, Curvance (WIP), Morpho, Updated Aave V4 Audit Proposal
+
+• Next Steps (4 times)
+  Protocols: Aave V4 Audit Proposal, MegaETH Audit Proposal, Morpho Markets V2 Audit Proposal, Updated Aave V4 Audit Proposal
+
+• Appendix (Case Studies and Testimonials) (4 times)
+  Protocols: Aave V4 Audit Proposal, MegaETH Audit Proposal, Morpho Markets V2 Audit Proposal, Updated Aave V4 Audit Proposal
+
+• Select Testimonials (4 times)
+  Protocols: Aave V4 Audit Proposal, MegaETH Audit Proposal, Morpho Markets V2 Audit Proposal, Updated Aave V4 Audit Proposal
+
+• - Ethereum Foundation (4 times)
+  Protocols: Aave V4 Audit Proposal, MegaETH Audit Proposal, Morpho Markets V2 Audit Proposal, Updated Aave V4 Audit Proposal
+
+• Yield / Strategy Highlights (4 times)
+  Protocols: Amana, Amana, Amana, Amana
+
+• David Theodore (4 times)
+  Protocols: Babylon, Babylon, Plume, lombard
+
+• Contributions to Compound: (4 times)
+  Protocols: Compound, Compound, Compound, Compound
+
+• DEX / Rust Highlights (4 times)
+  Protocols: Dango, Dango, Dango, Dango
+
+• IllIllI (4 times)
+  Protocols: GMX, GMX_solana, Incentiv, Incentiv
+
+• J4X (4 times)
+  Protocols: Hyperlane, lombard, lombard, rarible
+
+• S3v3ru5 (4 times)
+  Protocols: Hyperlane, lombard, nuffle, rarible
+
+• Kuprum (4 times)
+  Protocols: Lombard_IBC, lombard, thorchain-v2, zetachain
+
+• Compound/Vault Highlights (4 times)
+  Protocols: Mangrove, Mangrove, Mangrove, Mangrove
+
+• **Berndartmueller** (4 times)
+  Protocols: MegaETH, MegaETH Audit Proposal, SEI, Side
+
+• 0xdeadbeef (4 times)
+  Protocols: Openfort, Optimism-Isthmus, Optimism-Isthmus, Qubic
+
+• DefSec (4 times)
+  Protocols: ProvLabs Vault, Qubic, arch-srs, thorchain-v2
+
+• Oblivionis (4 times)
+  Protocols: ProvLabs Vault, Reflect, Toki, jigsaw
+
+• n4nika (4 times)
+  Protocols: arch-srs, bitvm-srs, citrea-srs, zetachain
+
+• Blackthorn’s Audit Methodology (3 times)
+  Protocols: Aave V4 Audit Proposal, MegaETH Audit Proposal, Updated Aave V4 Audit Proposal
+
+• **1. Early Testing with Cutting-Edge Tooling** (3 times)
+  Protocols: Aave V4 Audit Proposal, MegaETH Audit Proposal, Updated Aave V4 Audit Proposal
+
+• **2. Manual Review: Deep Dive into Architecture and Logic** (3 times)
+  Protocols: Aave V4 Audit Proposal, MegaETH Audit Proposal, Updated Aave V4 Audit Proposal
+
+• **3. Tactical Fuzzing & Validation** (3 times)
+  Protocols: Aave V4 Audit Proposal, MegaETH Audit Proposal, Updated Aave V4 Audit Proposal
+
+• **4. Reporting & Mitigation** (3 times)
+  Protocols: Aave V4 Audit Proposal, MegaETH Audit Proposal, Updated Aave V4 Audit Proposal
+
+• [Simao](https://audits.sherlock.xyz/watson/0x73696d616f) (3 times)
+  Protocols: Aave V4 Audit Proposal, Morpho Markets V2 Audit Proposal, Updated Aave V4 Audit Proposal
+
+• Audit Competition (3 times)
+  Protocols: Aave V4 Audit Proposal, Morpho Markets V2 Audit Proposal, Updated Aave V4 Audit Proposal
+
+• Features Included in a Sherlock Audit Competition (3 times)
+  Protocols: Aave V4 Audit Proposal, Morpho Markets V2 Audit Proposal, Updated Aave V4 Audit Proposal
+
+• Jack Sanford (3 times)
+  Protocols: Aave V4 Audit Proposal, Morpho Markets V2 Audit Proposal, Updated Aave V4 Audit Proposal
+
+• panprog (3 times)
+  Protocols: AaveV4, GMX, amara
+
+• **Tapir** (3 times)
+  Protocols: Allbridge, Molecula, tempest
+
+• **0x37** (3 times)
+  Protocols: Arrakis (Pancake v3), M^Zero, Megapot
+
+• **Pyro (0x3b)** (3 times)
+  Protocols: Blockz, Molecula, Quiro
+
+• 0x3b (3 times)
+  Protocols: Bondi protocol, injective-srs, injective-srs_1
+
+• simao (aka. 0x73696d616f) (3 times)
+  Protocols: Cap, cap-srs, liquityv2-srs
+
+• Skills: (3 times)
+  Protocols: Citrea, Citrea, Citrea
+
+• **Kuprum** (3 times)
+  Protocols: Gurufin, Side, Wireshape
+
+• **Monrel** (3 times)
+  Protocols: InkySwap Pump, Napier - August 26 Team, Napier
+
+• **0xdeadbeef** (3 times)
+  Protocols: MegaETH, MegaETH Audit Proposal, midl
+
+• Midas Highlights (3 times)
+  Protocols: Midas, Midas, Midas
+
+• **bin2chen** (3 times)
+  Protocols: Openfort, Propeller Heads - Turbine, starknet
+
+• GalloDaSballo (3 times)
+  Protocols: Optimism-Isthmus, Optimism-Isthmus, liquityv2-srs
+
+• Exclusive to Sherlock (3 times)
+  Protocols: Swiv, Swiv, Swiv
+
+• **ctf_sec** (3 times)
+  Protocols: Timeswap (Curvance structure), Timeswap, YieldBasis
+
+• **0x52** (3 times)
+  Protocols: ammalgam-srs, riftlend, seamless-srs
+
+• **Kirkeelee** (2 times)
+  Protocols: 3Jane, seamless-srs
+
+• **samuraii77** (2 times)
+  Protocols: AMMplify, Napier
+
+• **0xeix** (2 times)
+  Protocols: AMMplify, Ozak AI
+
+• **Audit Competition Tiered Rewards Structure** (2 times)
+  Protocols: Aave V4 Audit Proposal, Updated Aave V4 Audit Proposal
+
+• DEX / Router Highlights (2 times)
+  Protocols: BMX, BMX
+
+• gjialdon (g) (2 times)
+  Protocols: Babylon, Babylon
+
+• carrotsmuggler (2 times)
+  Protocols: Babylon, Babylon
+
+• sashik_eth (2 times)
+  Protocols: Babylon, Babylon
+
+• neumo (2 times)
+  Protocols: Babylon, Babylon
+
+• **1. eeyore** (2 times)
+  Protocols: Brokex V4 (WIP), Molecula (Wrapped Rebase Asset)
+
+• Math Algorithms & Risk Models (2 times)
+  Protocols: Curvance (WIP), Curvance (WIP)
+
+• Bauchibred (2 times)
+  Protocols: ENS, Lombard_IBC
+
+• 0xeix (2 times)
+  Protocols: Honeypop, ProvLabs Vault
+
+• gjialdon (2 times)
+  Protocols: Hyperlandsrs, Hyperlane
+
+• fugazzi (2 times)
+  Protocols: Ilayer, beraborrow_erc4626
+
+• **Amow** (2 times)
+  Protocols: InkySwap Pump, Napier
+
+• xuwinnie (2 times)
+  Protocols: Irys, Irys_1
+
+• Wei Tang (sorpaas) (2 times)
+  Protocols: Irys, Irys_1
+
+• Lukasz Glen (2 times)
+  Protocols: Irys, Irys_1
+
+• Notable Engagements (2 times)
+  Protocols: Manifest finance, Manifest finance
+
+• **Block_dev** (2 times)
+  Protocols: MegaETH, MegaETH Audit Proposal
+
+• **Specialist Cryptography Consultant: Kevaundray** (2 times)
+  Protocols: MegaETH, MegaETH Audit Proposal
+
+• **Hash** (2 times)
+  Protocols: Megapot, Mellow Flexible Vaults
+
+• Price and Duration (2 times)
+  Protocols: Morpho V2 Audit Proposal, Morpho V2 Audit Proposal
+
+• **thekmj** (2 times)
+  Protocols: Napier - August 26 Team, Napier
+
+• **jokr** (2 times)
+  Protocols: Napier - August 26 Team, Napier
+
+• Why relevant to Neutrl (2 times)
+  Protocols: Neutrl, Neutrl
+
+• unforgiven (2 times)
+  Protocols: Optimism-Isthmus, Optimism-Isthmus
+
+• PUSH0 (2 times)
+  Protocols: Plume, jigsaw
+
+• Vinicaboy (2 times)
+  Protocols: Reflect, Toki
+
+• Demorex (TessKimy) (2 times)
+  Protocols: Reflect, Toki
+
+• **zzykxx** (2 times)
+  Protocols: Satlayer, octodefi-srs
+
+• **J4X** (2 times)
+  Protocols: Spaceandtimedb, Wire Network
+
+• **newspacexyz** (2 times)
+  Protocols: Timeswap (Curvance structure), Timeswap
+
+• **lemonmon** (2 times)
+  Protocols: Timeswap (Curvance structure), Timeswap
+
+• **Giraffe** (2 times)
+  Protocols: bitgo_batcher, tempest
+
+• Carlos (CPerrez) (2 times)
+  Protocols: brevis-srs, brevis-srs_1
+
+• Onur Kilic (2 times)
+  Protocols: brevis-srs, brevis-srs_1
+
+• Gjaldon (2 times)
+  Protocols: injective-srs, injective-srs_1
+
+• Reasoning: (2 times)
+  Protocols: monad-team-formation, monad-team-formation
+
+SIMILAR NAMES (Potential formatting variations):
+------------------------------------------------------------
+• Variations: **eeyore**, **Eeyore**
+  Protocols: 3Jane, Curvance (WIP), Mellow Flexible Vaults, Neutrl, Neutrl, nik-srs
+
+• Variations: **Oot2k**, **oot2k**
+  Protocols: AMMplify, Curvance (WIP), Hooked Exchange, Majority, Napier, Vols fi, nik-srs, octodefi-srs
+
+• Variations: Our understanding of your needs, Our Understanding of Your Needs
+  Protocols: Aave V4 Audit Proposal, Aave V4 Proposal (Dan), Axal, Morpho Markets V2 Audit Proposal, MorphoV2, MorphoV2, Updated Aave V4 Audit Proposal
+
+• Variations: tapir, Tapir
+  Protocols: AaveV4, AaveV4, AaveV4_v2, Ilayer, Molecula, aave_v33, amara, vault-bridge-srs
+
+• Variations: xiaoming90, Xiaoming90
+  Protocols: AaveV4, AaveV4, AaveV4_v2, Arrakis, Arrakis, Autopilot, Cap, Cap, Centrifuge, Centrifuge, Hyperlandsrs, Hyperlane, Ilayer, Licredity, Notional, USBC, Vaultedge, aave_v33, amara, cap-srs, cap-srs, liquityv2-srs, liquityv2-srs, parasail, tenor_srs, vault-bridge-srs
+
+• Variations: jokr, Jokr
+  Protocols: AaveV4, Compound, Incentiv, Incentiv, Malda, Malda
+
+• Variations: **0xAdrii**, **0xadrii**
+  Protocols: Allbridge, Hooked Exchange, Mellow Flexible Vaults, Midas, Openfort
+
+• Variations: **samurai77**, **Samurai77**
+  Protocols: Allbridge, Blockz, GooDaoFi, Majority, Molecula, Ozak AI, Quiro, octodefi-srs
+
+• Variations: **Vinica_boy**, **vinica_boy**
+  Protocols: Allbridge, Arrakis (Pancake v3), Blockz, Curvance (WIP), Molecula, Timeswap (Curvance structure), Timeswap, Vols fi
+
+• Variations: Eeyore, eeyore
+  Protocols: ArgonautSRs, Autopilot, Hydrex, Manifest finance, Notional, Pareto-SRs, Reflect, Toki, bao, jigsaw
+
+• Variations: Samurai77, samurai77
+  Protocols: ArgonautSRs, Molecula, Prodigy fi, majority
+
+• Variations: santipu, Santipu
+  Protocols: ArgonautSRs, Cap, Cap, Honeypop, Molecula, USBC, Vaultedge, aave_v33, bao, cap-srs, cap-srs, liquityv2-srs, liquityv2-srs
+
+• Variations: KupiaSec, Kupiasec
+  Protocols: ArgonautSRs, Fission, bao, bitlayer-srs, chronicle, chronicle_1, runes-srs, tarobase, thorchain-v2
+
+• Variations: Juaan, juaan
+  Protocols: Arrakis, Licredity, jigsaw
+
+• Variations: Jennifer37, jennifer37
+  Protocols: Autopilot, Hydrex
+
+• Variations: berndartmueller, Berndartmueller
+  Protocols: Babylon, Babylon, ENS, Irys, arch-srs, espresso-srs, injective-srs, injective-srs_1, lombard, thorchain-v2, zetachain
+
+• Variations: Hack3r-0m, hack3r-0m
+  Protocols: Babylon, Babylon, Gurufin, chronicle, chronicle_1, lombard, thorchain-v2, zetachain
+
+• Variations: lemonmon, Lemonmon
+  Protocols: Babylon, Babylon, Notional, lombard
+
+• Variations: **Bauchibred**, **bauchibred**
+  Protocols: Bascule V3, Citrea, Gurufin, midl
+
+• Variations: **defsec**, **DefSec**
+  Protocols: Bascule V3, SEI
+
+• Variations: Vinica_boy, vinica_boy
+  Protocols: Bondi protocol, Idle Finance Update, Molecula, Pareto-SRs, Spectra Vaults, beraborrow_erc4626
+
+• Variations: simao, Simao
+  Protocols: Cap, Centrifuge, Centrifuge, Honeypop, Malda, Spectra Vaults, bitvm-srs, cap-srs, liquityv2-srs, majority, runes-srs, tenor_srs
+
+• Variations: 0xAdrii, 0xadrii
+  Protocols: Centrifuge, Centrifuge, Curvance (WIP), Incentiv, Incentiv, incentiv, vault-bridge-srs
+
+• Variations: **Xiaoming90**, **xiaoming90**
+  Protocols: Curvance (WIP), GooDaoFi, Napier, Neutrl, Spine Finance, Summer fi, Timeswap, nik-srs, riftlend, tempest
+
+• Variations: **simao**, **Simao**
+  Protocols: Exactly, Fuel, Majority, Megapot, Mellow Flexible Vaults, Resolv, Tokamak
+
+• Variations: tapir (mstpr-brainbot), Tapir (mstpr-brainbot)
+  Protocols: Fission, Notional, Prodigy fi, Smart Invoice Auditors
+
+• Variations: **deadrosesxyz**, **Deadrosesxyz**
+  Protocols: GooDaoFi, Hooked Exchange, M^Zero, Mellow Flexible Vaults, Neutrl, Wireshape
+
+• Variations: **Mxuse**, **mxuse**
+  Protocols: Gurufin, SEI
+
+• Variations: Sammy, sammy
+  Protocols: Incentiv, Incentiv, Irys, Malda, Openfort, Optimism-Isthmus, brevis-srs_1, citrea-srs, incentiv, lombard, thorchain-v2, zetachain
+
+• Variations: **0xsimao**, **0xSimao**
+  Protocols: M^Zero, Timeswap (Curvance structure), Timeswap
+
+• Variations: **EV_OM**, **EV_om**
+  Protocols: MegaETH, MegaETH Audit Proposal, starknet
+
+• Variations: **Panprog**, **panprog**
+  Protocols: Morpho, Spine Finance, Timeswap, Vols fi
+
+• Variations: BACKUP, Backup
+  Protocols: Plume, aave_v33, parasail
+
+• Variations: ThorChain, Thorchain
+  Protocols: Thorchain, Thorchain Project Manager Profiles
+
+• Variations: cergyk, Cergyk
+  Protocols: USBC, amara, espresso-srs
+
+• Variations: **juaan**, **Juaan**
+  Protocols: Wireshape, ammalgam-srs
+
+• Variations: **Deadrosesxyz (aka. Bughuntoor)**, **deadrosesxyz (aka. bughuntoor)**
+  Protocols: bitgo_batcher, seamless-srs
+
+• Variations: **spearmint**, **Spearmint**
+  Protocols: tarobase, tempest
+
+MOST FREQUENT AUDITORS:
+------------------------------
+• xiaoming90: 23 protocols
+• bin2chen: 20 protocols
+• pkqs90: 17 protocols
+• Gas Optimization & Low-Level Systems: 17 protocols
+• 0x52: 16 protocols
+• Money Market Protocols & Liquidation Logic: 15 protocols
+• Math Algorithms & Interest Rate Models: 14 protocols
+• SLIDE 2: 12 protocols
+• deadrosesxyz: 11 protocols
+• Sammy: 11 protocols
+• SLIDE 1: 10 protocols
+• hyh: 9 protocols
+• santipu: 9 protocols
+• oot2k: 9 protocols
+• Price & Duration: 8 protocols
+• KupiaSec: 8 protocols
+• Berndartmueller: 8 protocols
+• Simao: 8 protocols
+• **pkqs90**: 7 protocols
+• tapir: 7 protocols

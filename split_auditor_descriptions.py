@@ -32,10 +32,10 @@ class AuditorDescriptionSplitter:
         self.output_dir = Path(output_dir)
         self.output_dir.mkdir(exist_ok=True)
         
-        # Pattern to match section markers like "**From ./path/filename.md**"
+        # Pattern to match section markers like "# From ./path/filename.md"
         self.marker_pattern = re.compile(
-            r'\*\*From\s+\./([^/]+/)*([^/]+)\.md\*\*',
-            re.IGNORECASE
+            r'^# From \./([^/]+/)*([^/]+)\.md$',
+            re.MULTILINE | re.IGNORECASE
         )
     
     def fetch_content_from_url(self, url: str) -> str:
@@ -127,7 +127,7 @@ class AuditorDescriptionSplitter:
         for i, match in enumerate(marker_matches):
             # Extract protocol name from filename
             full_path = match.group(0)
-            filename_match = re.search(r'([^/]+)\.md\*\*$', full_path)
+            filename_match = re.search(r'([^/]+)\.md$', full_path)
             
             if not filename_match:
                 print(f"Warning: Could not extract filename from marker: {full_path}")

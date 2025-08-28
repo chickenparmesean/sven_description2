@@ -1,0 +1,145 @@
+~/workspace$ # Check if the files actually exist
+ls -la protocol_files/
+
+# See what git thinks about those files specifically
+git ls-files protocol_files/
+
+# Force add with verbose output
+git add -v protocol_files/
+total 540
+drwxr-xr-x 1 runner runner  1948 Aug 28 21:03 .
+drwxr-xr-x 1 runner runner   270 Aug 28 21:05 ..
+-rw-r--r-- 1 runner runner 14366 Aug 28 21:03 1731386289-KVQF.md
+-rw-r--r-- 1 runner runner  4655 Aug 28 21:03 1732119472-MYYO.md
+-rw-r--r-- 1 runner runner  7085 Aug 28 21:03 1733763431-JCBV_1.md
+-rw-r--r-- 1 runner runner  4219 Aug 28 21:03 1733763431-JCBV.md
+-rw-r--r-- 1 runner runner  5684 Aug 28 21:03 1734334232-IJYP.md
+-rw-r--r-- 1 runner runner  5484 Aug 28 21:03 1734343017-EYIN.md
+-rw-r--r-- 1 runner runner 10378 Aug 28 21:03 1734624929-PVAM.md
+-rw-r--r-- 1 runner runner  4140 Aug 28 21:03 1734943333-YBQU.md
+-rw-r--r-- 1 runner runner  2890 Aug 28 21:03 1734992491-MNTE.md
+-rw-r--r-- 1 runner runner  5242 Aug 28 21:03 1735299440-ELPX.md
+-rw-r--r-- 1 runner runner  3268 Aug 28 21:03 1735818271-UGTC.md
+-rw-r--r-- 1 runner runner  5357 Aug 28 21:03 1737445429-YJVW.md
+-rw-r--r-- 1 runner runner  2283 Aug 28 21:03 1738654678-XWVW.md
+-rw-r--r-- 1 runner runner  3448 Aug 28 21:03 1738655582-HIJF.md
+-rw-r--r-- 1 runner runner  4187 Aug 28 21:03 1739390023-DAEI.md
+-rw-r--r-- 1 runner runner  5204 Aug 28 21:03 1739973689-ADOO.md
+-rw-r--r-- 1 runner runner 13973 Aug 28 21:03 1739988635-POWK.md
+-rw-r--r-- 1 runner runner  7567 Aug 28 21:03 1740045692-DAQZ.md
+-rw-r--r-- 1 runner runner  3935 Aug 28 21:03 1740472534-BYKW.md
+-rw-r--r-- 1 runner runner  5461 Aug 28 21:03 1741011930-WJPE.md
+-rw-r--r-- 1 runner runner  7958 Aug 28 21:03 1741157216-ZAIW.md
+-rw-r--r-- 1 runner runner  1888 Aug 28 21:03 1741192015-JWUD.md
+-rw-r--r-- 1 runner runner  2663 Aug 28 21:03 1741604308-CWHC.md
+-rw-r--r-- 1 runner runner  4008 Aug 28 21:03 1741681528-PMUC.md
+-rw-r--r-- 1 runner runner  9172 Aug 28 21:03 ammalgam-srs.md
+-rw-r--r-- 1 runner runner  3516 Aug 28 21:03 arbi2.md
+-rw-r--r-- 1 runner runner 10362 Aug 28 21:03 arch-srs.md
+-rw-r--r-- 1 runner runner  5153 Aug 28 21:03 ArgonautSRs.md
+-rw-r--r-- 1 runner runner  8238 Aug 28 21:03 bao.md
+-rw-r--r-- 1 runner runner  3068 Aug 28 21:03 beraborrow_erc4626.md
+-rw-r--r-- 1 runner runner  4291 Aug 28 21:03 bitlayer-srs.md
+-rw-r--r-- 1 runner runner  3469 Aug 28 21:03 bitvm-srs.md
+-rw-r--r-- 1 runner runner  3236 Aug 28 21:03 brevis-srs_1.md
+-rw-r--r-- 1 runner runner  2846 Aug 28 21:03 brevis-srs.md
+-rw-r--r-- 1 runner runner 17278 Aug 28 21:03 cap-srs.md
+-rw-r--r-- 1 runner runner  6739 Aug 28 21:03 chronicle_1.md
+-rw-r--r-- 1 runner runner  9427 Aug 28 21:03 chronicle.md
+-rw-r--r-- 1 runner runner  5281 Aug 28 21:03 citrea-srs.md
+-rw-r--r-- 1 runner runner  4873 Aug 28 21:03 espresso-srs.md
+-rw-r--r-- 1 runner runner  2567 Aug 28 21:03 gjaldon.md
+-rw-r--r-- 1 runner runner  6670 Aug 28 21:03 Ilayer.md
+-rw-r--r-- 1 runner runner 14430 Aug 28 21:03 incentiv.md
+-rw-r--r-- 1 runner runner  2801 Aug 28 21:03 index_fun.md
+-rw-r--r-- 1 runner runner  5541 Aug 28 21:03 injective-srs_1.md
+-rw-r--r-- 1 runner runner  5572 Aug 28 21:03 injective-srs.md
+-rw-r--r-- 1 runner runner  4713 Aug 28 21:03 Irys_1.md
+-rw-r--r-- 1 runner runner  8344 Aug 28 21:03 Irys.md
+-rw-r--r-- 1 runner runner 10013 Aug 28 21:03 liquityv2-srs.md
+-rw-r--r-- 1 runner runner  4887 Aug 28 21:03 majority.md
+-rw-r--r-- 1 runner runner  4071 Aug 28 21:03 midl.md
+-rw-r--r-- 1 runner runner  4009 Aug 28 21:03 monad-scope-fit.md
+-rw-r--r-- 1 runner runner 18231 Aug 28 21:03 monad-srsv2.md
+-rw-r--r-- 1 runner runner  2451 Aug 28 21:03 monad-team-formation.md
+-rw-r--r-- 1 runner runner  4251 Aug 28 21:03 nik-srs.md
+-rw-r--r-- 1 runner runner  3420 Aug 28 21:03 octodefi-srs.md
+-rw-r--r-- 1 runner runner  3447 Aug 28 21:03 Pareto-SRs.md
+-rw-r--r-- 1 runner runner  5028 Aug 28 21:03 rain.md
+-rw-r--r-- 1 runner runner  2824 Aug 28 21:03 runes-srs.md
+-rw-r--r-- 1 runner runner  2830 Aug 28 21:03 seamless-srs.md
+-rw-r--r-- 1 runner runner  5979 Aug 28 21:03 starknet.md
+-rw-r--r-- 1 runner runner  4123 Aug 28 21:03 stylus.md
+-rw-r--r-- 1 runner runner 14165 Aug 28 21:03 sui.md
+-rw-r--r-- 1 runner runner  2712 Aug 28 21:03 SXT-Srs.md
+-rw-r--r-- 1 runner runner  6015 Aug 28 21:03 tarobase.md
+-rw-r--r-- 1 runner runner  4239 Aug 28 21:03 tenor_srs.md
+-rw-r--r-- 1 runner runner 15802 Aug 28 21:03 thorchain-v2.md
+-rw-r--r-- 1 runner runner  5911 Aug 28 21:03 vault-bridge-srs.md
+protocol_files/1731386289-KVQF.md
+protocol_files/1732119472-MYYO.md
+protocol_files/1733763431-JCBV.md
+protocol_files/1733763431-JCBV_1.md
+protocol_files/1734334232-IJYP.md
+protocol_files/1734343017-EYIN.md
+protocol_files/1734624929-PVAM.md
+protocol_files/1734943333-YBQU.md
+protocol_files/1734992491-MNTE.md
+protocol_files/1735299440-ELPX.md
+protocol_files/1735818271-UGTC.md
+protocol_files/1737445429-YJVW.md
+protocol_files/1738654678-XWVW.md
+protocol_files/1738655582-HIJF.md
+protocol_files/1739390023-DAEI.md
+protocol_files/1739973689-ADOO.md
+protocol_files/1739988635-POWK.md
+protocol_files/1740045692-DAQZ.md
+protocol_files/1740472534-BYKW.md
+protocol_files/1741011930-WJPE.md
+protocol_files/1741157216-ZAIW.md
+protocol_files/1741192015-JWUD.md
+protocol_files/1741604308-CWHC.md
+protocol_files/1741681528-PMUC.md
+protocol_files/ArgonautSRs.md
+protocol_files/Ilayer.md
+protocol_files/Irys.md
+protocol_files/Irys_1.md
+protocol_files/Pareto-SRs.md
+protocol_files/SXT-Srs.md
+protocol_files/ammalgam-srs.md
+protocol_files/arbi2.md
+protocol_files/arch-srs.md
+protocol_files/bao.md
+protocol_files/beraborrow_erc4626.md
+protocol_files/bitlayer-srs.md
+protocol_files/bitvm-srs.md
+protocol_files/brevis-srs.md
+protocol_files/brevis-srs_1.md
+protocol_files/cap-srs.md
+protocol_files/chronicle.md
+protocol_files/chronicle_1.md
+protocol_files/citrea-srs.md
+protocol_files/espresso-srs.md
+protocol_files/gjaldon.md
+protocol_files/incentiv.md
+protocol_files/index_fun.md
+protocol_files/injective-srs.md
+protocol_files/injective-srs_1.md
+protocol_files/liquityv2-srs.md
+protocol_files/majority.md
+protocol_files/midl.md
+protocol_files/monad-scope-fit.md
+protocol_files/monad-srsv2.md
+protocol_files/monad-team-formation.md
+protocol_files/nik-srs.md
+protocol_files/octodefi-srs.md
+protocol_files/rain.md
+protocol_files/runes-srs.md
+protocol_files/seamless-srs.md
+protocol_files/starknet.md
+protocol_files/stylus.md
+protocol_files/sui.md
+protocol_files/tarobase.md
+protocol_files/tenor_srs.md
+protocol_files/thorchain-v2.md
+protocol_files/vault-bridge-srs.md

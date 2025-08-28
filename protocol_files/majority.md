@@ -1,0 +1,24 @@
+## simao 
+**Experience:** Simao is a senior Web3 security engineer with a proven track record in DeFi and gaming protocols. He has audited major AMM and vault systems, including Uniswap V4’s hook architecture and modular DEX integrations, showcasing mastery of complex tokenomics and state management. His work spans institutional lending platforms (e.g., Maple, Fuji Finance) and derivatives protocols (e.g., Vertex), with a focus on fee distribution, referral mechanics, and time-sensitive logic. A top-ranked Sherlock contributor and Blackthorn team member, he has led 30+ private audits and consistently delivers high-coverage analysis.  
+
+**Why they are a good fit:** Simao’s deep experience with dynamic fee models, session-based state transitions, and referral reward systems directly aligns with Majority’s prize pool integrity and sponsor refund logic. His track record in validating commit-reveal schemes and secure token transfers ensures rigorous testing of game lifecycle rules and fee calculations. As Head of Security at Three Sigma, he brings institutional rigor to Majority’s competitive gaming infrastructure.
+
+## pkqs90
+
+**Experience:** pkqs90 is a founding security researcher at Blackthorn and lead Watson at Sherlock, specializing in high-impact DeFi audits. He has secured protocols like Midas (RWA), Predy (perpetual DEX), and Gamma (staking), with a focus on fee models, vault logic, and token accounting. His background in algorithm design from the self-driving car industry translates into meticulous analysis of state transitions and permissioned roles. With 11 first-place finishes and 17 top-3 rankings in public contests, he consistently delivers high-coverage audits, including critical fixes for Aave v3.3’s liquidation logic and governance systems.  
+
+**Why they are a good fit:** pkqs90’s expertise in dynamic fee structures (Aave, Gamma) and time-sensitive state machines (Midas, Super Boring) directly aligns with Majority’s prize pool and session lifecycle requirements. His experience auditing referral systems (e.g., Maple) and complex tokenomics ensures rigorous validation of fee calculations and reward distribution. As a Lead Watson, he combines institutional-grade precision with contest-tested vulnerability hunting to secure Majority’s gaming infrastructure.
+
+## oot2k
+
+**Experience:** oot2k is a senior security researcher at Sherlock and BailSec with a focus on DeFi protocols, specializing in fee distribution, automated market makers (AMMs), and vault systems. He has secured high-profile projects like Arcadia (identifying critical CREATE2 and collateral exposure issues), 1inch (router logic), and DODO (AMM infrastructure), alongside validating complex tokenomics in lending platforms and ve-token models. A prolific contributor to competitive audit contests, he holds 11 first-place finishes and 17 top-3 rankings, with a knack for uncovering high-severity vulnerabilities in live environments.  
+
+**Why they are a good fit:** oot2k’s deep familiarity with AMM mechanics, fee models, and permissioned role audits directly aligns with Majority’s prize pool logic, session state transitions, and sponsor/referral flows. His history of flagging critical issues in Arcadia and Uniswap-adjacent systems ensures rigorous scrutiny of Majority’s fee calculations and liquidity deployment edge cases, such as time-sensitive refunds and reward distribution. As both a Lead Judge and top-ranked auditor, he combines institutional-grade precision with contest-tested vulnerability hunting to validate Majority’s gaming infrastructure.
+
+## samurai77
+
+**Experience:** Samurai77 is a Lead Senior Watson at Sherlock with extensive expertise in gamified smart contracts, NFT systems, and AMM/exchange mechanics. He has uncovered critical vulnerabilities in NFT-based games like TraitForge and secure staking protocols such as LayerEdge (flagging issues in tiered reward distributions). His work on Yieldoor’s multi-hop swap logic and tick management highlights his proficiency in trading systems, while private engagements with teams like Pashov Audit Group and Bail Security cover lending platforms, stablecoins, and liquidity managers. With 3 first-place finishes and over 100 High/Medium-severity findings, he excels at identifying edge-case exploits in live code.  
+
+**Why they are a good fit:** Samurai77’s specialization in NFT game logic (e.g., TraitForge) and secure staking frameworks directly aligns with Majority’s referral rewards, session state transitions, and sponsor refund mechanics. His experience auditing multi-hop swaps and tokenomics ensures rigorous validation of Majority’s fee calculations, prize pool integrity, and time-dependent logic. As a top-ranked auditor, he combines contest-tested precision with institutional audit depth to secure Majority’s gaming and token infrastructure.
+
+---

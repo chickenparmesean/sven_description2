@@ -1,0 +1,25 @@
+## 0x007
+
+**Experience:** 0x007, a lead senior Watson on Sherlock, contributed significantly to the Axelar Network audit, identifying an exploit that could bypass balance tracking using rogue contract deployments. He has worked across multiple cross-chain systems, uncovering critical issues in governance and bridging logic. Additionally, he secured first place in the BlendV2 audit contest on Stellar, a liquidity protocol primitive built on the Stellar network, and collaborated on the Interchain Labs CosmWasm v2 audit, which involved Rust-based smart contract security analysis.  
+
+**Why they are a good fit:** With hands-on expertise in Stellar’s ecosystem from the BlendV2 audit and proven proficiency in Rust through the CosmWasm v2 audit, 0x007 is uniquely positioned to audit InterchainTEL’s token precompile and ConsensusRegistry. His deep understanding of cross-chain bridges, registry systems, and Rust-based smart contracts ensures rigorous evaluation of access control, validation logic, and cross-chain data handling flaws in Stellar’s architecture.
+
+## monrel
+
+**Experience**: monrel took third place in the **Blend audit**, a liquidity protocol primitive built on the Stellar network, demonstrating direct familiarity with Stellar-based protocols and their security requirements. He has uncovered critical flaws in slashing and staking mechanisms across various protocols, including **Taiko** (where he identified issues in proposer logic and bridge security) and **Rio Network** (highlighting unfair slashing penalties and staker evasion tactics). His work emphasizes precision in validator economics and risk mitigation for decentralized systems.  
+
+**Why they are a good fit**: With hands-on experience in auditing **Stellar’s ecosystem** (via the Blend audit) and a proven ability to dissect complex staking and slashing logic, monrel is well-positioned to evaluate security for Stellar-based projects. His expertise in identifying systemic risks in validator incentives and cross-chain validation ensures rigorous scrutiny of protocols deployed on Stellar, particularly those involving consensus mechanisms, collateralized systems, or tokenomics-aligned security models.
+
+## rscodes
+
+**Experience**: rscodes took 4th place in the **Blend V2 audit**, a liquidity protocol primitive built on the **Stellar network**, showcasing direct familiarity with **Stellar-based protocols**. A prolific security researcher, he has identified **multiple solo High and Medium vulnerabilities** in public contests, including **1st-place finishes** in audits for **Juicebox V4** (6 High, 4 Medium findings), **Dahlia** (1 High, 5 Medium findings), and **Royco** (5 High, 1 Medium findings). His expertise spans **Solidity/EVM** and **Rust smart contracts**, with a focus on complex logic flaws and critical vulnerabilities in lending, vaults, and cross-chain systems.  
+
+**Why they are a good fit**: With hands-on experience in **auditing Stellar-aligned protocols** (via the Blend V2 audit) and a proven ability to dissect **Rust-based** and **EVM systems**, rscodes is well-positioned to evaluate security for **Stellar-deployed projects**. His track record of uncovering high-severity issues in high-stakes environments (e.g., **Taiko**, **LoopFi**, **Royco**) ensures rigorous scrutiny of **cross-chain data handling**, **validator economics**, and **tokenomics-aligned security models** within Stellar’s architecture. His dual proficiency in **Rust** and **Solidity** further aligns with the technical demands of modern blockchain deployments.
+
+## oakcobalt (aka. indigo_branch)
+
+**Experience**: oakcobalt placed **2nd in the Blend V2 audit**, a **Stellar-based liquidity protocol**, demonstrating direct familiarity with **Stellar-aligned security challenges**. He has a proven track record of uncovering critical vulnerabilities across high-profile protocols, including **ZetaChain** (6 findings, including cross-chain gas refund flaws), **zkSync Era** (3 findings, including double withdrawal risks and state freeze issues), and **MANTRA DEX** (10 findings, exposing slippage handling flaws and stableswap pool vulnerabilities). His expertise spans **Solidity/EVM** and **Rust-based systems**, with a focus on **validator economics**, **cross-chain logic**, and **tokenomics-aligned security**.  
+
+**Why they are a good fit**: With hands-on experience in **auditing Stellar-deployed protocols** (via Blend V2) and a history of identifying high-severity flaws in **cross-chain systems**, oakcobalt is uniquely equipped to assess security for **Stellar-based projects**. His ability to dissect complex **validator mechanisms**, **slippage handling**, and **token bridging logic** ensures rigorous scrutiny of **validator incentives**, **collateralization risks**, and **cross-chain data integrity**. His dual proficiency in **Rust** and **Solidity**, combined with a deep understanding of **DeFi primitives** (DEXs, lending, restaking), aligns with the technical demands of modern Stellar deployments.
+
+---

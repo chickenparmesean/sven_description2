@@ -1,0 +1,41 @@
+## eeyore  
+
+- **Highly Experienced Security Researcher**: Ranked #39 on the Sherlock leaderboard, eeyore specializes in DeFi audits with a focus on staking, yield protocols, and reward distribution systems. His track record includes 1st-place finishes in high-severity contests like Kwenta and 3rd in Velocimeter, where he uncovered critical vulnerabilities in financial logic and access control.  
+- **Expertise in DeFi, Smart Contract Security, and Reward Systems**: With over 10 years of software development experience, 3.5+ years in Solidity, and 1.5+ years as a dedicated security researcher, eeyore has audited 30+ DeFi protocols, including leveraged tokens, collateralized minting systems, and reward compounding mechanisms.  
+- **Direct Experience with Relevant Components**: Eeyore has led audits for UUPS proxy-based systems (e.g., Libertify, Gotbit Bridge), analyzed reward distribution logic in protocols like Cinch Protocol and Mellow, and scrutinized role-based access controls (e.g., ONCHAINID) and ownership transfer models.  
+- **Proven Track Record of High-Impact Findings**: His work includes discovering critical vulnerabilities in reentrancy risks, reward manipulation, and governance bypasses across projects like Basin, Gotbit Bridge, and Hypercycle.  
+
+**Why They Are a Good Fit**: Eeyore’s expertise in auditing upgradable proxy patterns, reward compounding systems, and permissioned DeFi mechanics directly addresses Bao Finance’s needs. His history of securing complex staking, collateralized minting, and role-based governance systems ensures rigorous validation of Bao’s architecture. His ability to identify high-severity logic flaws and edge-case exploits in DeFi protocols will strengthen the protocol’s security while aligning with its focus on gas-efficient, upgradable smart contracts.
+
+
+## KupiaSec  
+
+- **Highly Experienced Security Researcher**: A top-tier audit firm ranked #1 in multiple Sherlock and Code4rena contests (e.g., FlatMoney v2, Karak Staking, and ULTI Invitational), KupiaSec consistently delivers high-impact findings in DeFi systems. Their team combines deep technical expertise with adversarial thinking to secure complex financial protocols.  
+- **Expertise in DeFi, Smart Contract Security, and Financial Systems**: With a focus on decentralized exchanges, lending protocols, and staking mechanisms, KupiaSec has audited critical infrastructure projects like Uniswap v4, Clober DEX, and Cyfrin Vault Guardians. Their work spans 2000+ lines of Solidity code, including upgradable contracts, permissioned systems, and gas-optimized storage layouts.  
+- **Direct Experience with Relevant Components**: KupiaSec specializes in auditing DEXs (Solar DEX, Panoptic), staking protocols (Karak, Gamma), reward distribution systems (Seismic Finance), and vaults. Their audits emphasize edge-case validation, reentrancy risks, and incentive misalignment in reward compounding systems.  
+- **Proven Track Record of High-Impact Findings**: Their contest wins (e.g., FlatMoney v2, Doubler Mitigation) highlight their ability to uncover critical vulnerabilities, including flashloan exploits, governance bypasses, and price oracle manipulation risks. Private audit reports (e.g., Keiko Finance, Clober Rebalancer) demonstrate rigorous analysis of DeFi-specific logic flaws.  
+
+**Why They Are a Good Fit**: KupiaSec’s expertise in securing DEXs, staking protocols, and upgradable systems directly aligns with Bao Finance’s DeFi-focused architecture. Their history of auditing complex financial primitives—such as reward compounding, collateralized minting, and permissioned governance—ensures rigorous scrutiny of Bao’s logic, edge cases, and gas-efficient designs. Their proven ability to identify high-severity issues in high-stakes environments like Uniswap and Karak Staking positions them to deliver actionable, mission-critical security insights for Bao’s protocol.
+
+
+
+## oot2k  
+
+- **Highly Experienced Security Researcher**: A senior security researcher at Sherlock DeFi and BailSec, oot2k has served as a lead judge for five Sherlock contests (e.g., Aave v3.3, Nouns DAO) and consistently ranks top in high-severity audits. Their expertise spans critical vulnerability discovery in live DeFi systems, with a focus on adversarial testing and edge-case exploitation.  
+- **Expertise in DeFi, Smart Contract Security, and Governance Systems**: With hands-on experience in auditing stablecoins (EUROe), lending protocols (Aave v3.3), DEXs (LooksRare, Nouns Builder), and governance frameworks, oot2k specializes in identifying reentrancy risks, governance bypasses, and oracle manipulation vulnerabilities. Their work includes uncovering a critical vulnerability in an undisclosed protocol that protected $13M in assets.  
+- **Direct Experience with Relevant Components**: oot2k has led audits for high-profile projects like Parallel Protocol (BailSec) and judged contests for protocols involving staking (MagicSea), DEX mechanics (LooksRare), and permissioned systems (Ankr). Their contest participation (e.g., Covalent, Predict.fun) highlights expertise in flashloan exploits and governance logic flaws.  
+- **Proven Track Record of High-Impact Findings**: Notable achievements include discovering a critical DOS vulnerability in EUROe Stablecoin, ranking 1st in Sherlock contests (Covalent, MagicSea), and securing top finishes in adversarial environments like Perennial V2 and Dinari.  
+
+**Why They Are a Good Fit**: oot2k’s deep experience with DeFi primitives—such as stablecoin mechanisms, governance systems, and DEX architectures—directly aligns with Bao Finance’s DeFi-centric design. Their history of auditing complex financial logic in protocols like Aave and Nouns DAO ensures rigorous validation of Bao’s reward distribution, staking pools, and permissioned controls. Their adversarial mindset, honed through contest judging and high-severity findings, will identify critical edge cases and mitigate risks in Bao’s upgradable, gas-optimized contracts.
+
+
+## Santipu  
+
+- **Highly Experienced Security Researcher**: A top-tier auditor ranked in 10+ high-severity contests (e.g., 1st in dHEDGE, 2nd in FlatMoney), Santipu specializes in DeFi audits with a focus on stablecoins, vaults, and synthetic assets. He collaborates with leading firms like Bailsec and Pashov Audit Group, combining adversarial thinking with deep technical expertise to secure complex financial systems.  
+- **Expertise in DeFi, Smart Contract Security, and Synthetic Assets**: With 3+ years of Solidity development and security research experience, Santipu has audited protocols spanning stablecoins (Beraborrow), lending (Exactly, Aave), vaults (dHEDGE), and cross-chain systems (Ion Protocol). His work includes uncovering critical vulnerabilities in synthetic asset mechanics and reward distribution systems.  
+- **Direct Experience with Relevant Components**: Santipu has led audits for stablecoin protocols (Beraborrow, FlatMoney), DeFi vaults (dHEDGE), lending platforms (Aave, Exactly), and permissioned systems (InterPol). His private audit history includes scrutinizing upgradable proxy patterns, collateral management, and incentive alignment in reward pools.  
+- **Proven Track Record of High-Impact Findings**: Notable achievements include discovering a **critical vulnerability in RociFi** (protected $13M+), ranking 1st in the dHEDGE vault audit, and securing top finishes in high-stakes contests like FlatMoney (2nd) and Exactly (2nd). His bug bounty work (e.g., Lido on Polygon, Umami Finance) highlights expertise in edge-case exploitation.  
+
+**Why They Are a Good Fit**: Santipu’s deep experience with synthetic assets (dHEDGE), stablecoins (Beraborrow), and lending protocols aligns directly with Bao Finance’s DeFi-centric architecture. His history of auditing upgradable contracts, reward compounding systems, and collateralized minting mechanics ensures rigorous validation of Bao’s core components. His ability to identify high-severity logic flaws, such as reentrancy risks in vaults or incentive misalignments in reward pools, will strengthen the protocol’s security while addressing Bao’s focus on gas-efficient, modular designs.
+
+---

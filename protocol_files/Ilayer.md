@@ -1,0 +1,33 @@
+## 0x52  
+
+- **Expert in Cross-Chain Communication**: 0x52 has a proven track record of identifying critical vulnerabilities in LayerZero-based systems and cross-chain bridging components, including notable findings in UXD Protocol’s bridging infrastructure and Avail Project’s main bridge. Their expertise will be critical in auditing iLayer’s cross-chain order settlement flows, validating endpoint spoofing risks, and ensuring atomicity in cross-chain state transitions.  
+- **DeFi Protocol Specialist**: With extensive experience in auditing complex DeFi protocols, including yield vaults, perpetuals, and stablecoins, 0x52 is well-equipped to review iLayer’s token handling logic, reentrancy guards, and permit-based approval systems. Their experience in identifying vulnerabilities in integrations with external protocols will bring significant value to the audit.  
+- **Proven Track Record**: 0x52 has conducted over 100 security reviews for public and private clients, with 30+ first-place finishes in public contests on platforms like Code4rena and Sherlock. They have contributed to securing over $1 billion in TVL across 100+ protocols, including high-profile audits of LayerZero integrations and permissioned systems.  
+- **Why they are a good fit**: 0x52’s exceptional track record, combined with their expertise in cross-chain communication, DeFi protocols, and low-level code auditing, makes them an ideal candidate to audit iLayer’s infrastructure. Their ability to uncover critical vulnerabilities ensures the safety and reliability of even the most complex systems in Web3.
+
+
+## tapir  
+
+- **Proven Track Record in Auditing Complex DeFi Protocols**: tapir has demonstrated exceptional expertise in auditing complex DeFi protocols, including yield aggregators, lending platforms, and AMMs. With first-place finishes in high-profile contests like WOOFi Swap, Seismic, and Elfi, they have a proven ability to identify critical vulnerabilities in systems ranging from permissionless lending (Notional) to cross-chain liquidity (WOOFi).  
+- **Extensive Experience with DeFi Ecosystems**: tapir has audited foundational DeFi protocols such as Yearn Finance, Curve, and Convex. Their deep familiarity with yield optimization strategies, liquidity pool mechanics, and governance risks ensures rigorous validation of iLayer’s cross-chain DeFi integrations and tokenomics.  
+- **Proven Track Record**: tapir has secured billions in TVL across 100+ protocols, with multiple first-place finishes in Code4rena and Sherlock contests. Their audits of critical infrastructure (e.g., Curve, Convex) highlight their ability to prioritize high-severity risks while delivering actionable fixes for complex systems.  
+- **Why they are a good fit**: tapir’s unparalleled depth in DeFi auditing, combined with their focus on yield aggregators and lending protocols, makes them ideal for evaluating iLayer’s cross-chain order infrastructure. Their ability to dissect tokenomics, fee mechanisms, and permissionless execution risks ensures a robust audit tailored to iLayer’s unique architecture.
+
+
+## xiaoming90  
+
+- **Renowned Expert in Cross-Chain Communication**: xiaoming90 is a globally recognized security researcher with a proven ability to identify critical vulnerabilities in cross-chain systems, including LayerZero, Hyperlane, and other interoperability protocols. His deep expertise in bridging mechanics and cross-chain message flows ensures rigorous validation of endpoint validation, replay attack resistance, and secure asset transfer mechanisms.  
+- **Proven Track Record in Auditing High-Profile Protocols**: With 32 top-three finishes in Code4rena and Sherlock contests, including first-place wins for Notional, Velodrome, and Connext Network audits, xiaoming90 has secured billions in TVL across protocols like MakerDAO, Redacted Cartel, and Bond Protocol. His audits consistently uncover high-severity flaws in complex DeFi logic, governance mechanisms, and tokenomics.  
+- **Specialist in DeFi Protocol Security**: xiaoming90 has audited foundational DeFi platforms such as Yearn Finance, Curve, and Notional, focusing on yield optimization, fixed-rate lending, and liquidity management. His work identifies risks in reentrancy, price oracle manipulation, and permissionless execution, aligning with the complexities of cross-chain DeFi architectures.  
+- **Why they are a good fit**: xiaoming90’s unparalleled depth in cross-chain security, combined with his hands-on experience auditing high-stakes DeFi protocols, makes him ideal for evaluating iLayer’s infrastructure. His ability to prioritize critical risks—such as endpoint spoofing, cross-chain state consistency, and fee manipulation—ensures a comprehensive audit tailored to iLayer’s unique challenges.
+
+
+## fugazzi  
+
+- **Expert in Cross-Chain Communication**: fugazzi has a proven track record of identifying critical vulnerabilities in cross-chain bridges and interoperability protocols, including their first-place audit of Avail’s main bridge. Their expertise in endpoint validation, replay attack resistance, and secure asset transfer mechanisms ensures rigorous testing of iLayer’s cross-chain order settlement flows and message finality guarantees.  
+- **DeFi Protocol Specialist**: With first-place finishes in audits of high-profile DeFi protocols like Aave v3.3, TITLES Publishing Protocol, and Notional, fugazzi excels at uncovering vulnerabilities in complex tokenomics, permissionless execution risks, and yield-bearing integrations. Their work on TITLES highlighted flaws in EIP-712 compatibility and signature malleability, demonstrating their ability to dissect cryptographic edge cases in decentralized systems.  
+- **Proven Track Record**: fugazzi has secured hundreds of millions in TVL across 100+ protocols, with 30+ top-three finishes in public contests on platforms like Sherlock and Code4rena. Their audit of Avail’s cross-chain bridge and contributions to protocols like Pendle and Kiln highlight their ability to prioritize high-impact risks in systems involving token transfers, staking, and decentralized governance.  
+- **Why they are a good fit**: fugazzi’s unparalleled depth in cross-chain security and DeFi protocol auditing makes them ideal for evaluating iLayer’s infrastructure. Their ability to identify critical risks—such as endpoint spoofing, signature malleability, and fee manipulation—ensures a comprehensive audit tailored to iLayer’s unique architecture. Their history of uncovering high-severity vulnerabilities in bridges and yield protocols aligns directly with iLayer’s technical challenges 
+
+
+---

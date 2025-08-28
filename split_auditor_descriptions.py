@@ -34,8 +34,8 @@ class AuditorDescriptionSplitter:
         
         # Pattern to match section markers like "# From ./path/filename.md"
         self.marker_pattern = re.compile(
-            r'^# From \./([^/]+/)*([^/]+)\.md$',
-            re.MULTILINE | re.IGNORECASE
+            r'^# From \./(.+/)?([^/]+)\.md$',
+            re.MULTILINE
         )
     
     def fetch_content_from_url(self, url: str) -> str:
@@ -125,15 +125,12 @@ class AuditorDescriptionSplitter:
         print(f"Found {len(marker_matches)} section markers")
         
         for i, match in enumerate(marker_matches):
-            # Extract protocol name from filename
-            full_path = match.group(0)
-            filename_match = re.search(r'([^/]+)\.md$', full_path)
+            # Extract protocol name from filename (group 2 from our regex)
+            protocol_name = match.group(2)
             
-            if not filename_match:
-                print(f"Warning: Could not extract filename from marker: {full_path}")
+            if not protocol_name:
+                print(f"Warning: Could not extract filename from marker: {match.group(0)}")
                 continue
-            
-            protocol_name = filename_match.group(1)
             
             # Find the start and end positions for this section
             section_start = match.end()
